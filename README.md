@@ -1,7 +1,6 @@
 
-![1SSSSSSSSS](https://user-images.githubusercontent.com/92918917/202276045-8b0d5a3e-8ee2-41d0-b4ec-06e859851b78.png)
+# RecipeRadar
 
-<br>
 Application for Android devices written in Java. 
 
 ## App main page appearance after launch
